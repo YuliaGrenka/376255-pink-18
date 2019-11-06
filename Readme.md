@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Юлия Доронина](https://up.htmlacademy.ru/adaptive/18/user/376255).
-* Наставник: `Неизвестно`.
+* Наставник: `Эрик Спичак`.
 
 ---
 
